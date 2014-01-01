@@ -1,0 +1,9 @@
+{
+
+	"cmd": ["zeta $file -o ../css -p '';mv ../css/$file_name ../css/$file_base_name.css"],
+	"selector": "source.scss",
+	"line_regex": "Line ([0-9]+):",
+	"shell":"true"
+
+
+}
